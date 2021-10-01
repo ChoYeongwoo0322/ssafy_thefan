@@ -1,0 +1,20 @@
+.tablink {
+  margin: 0px 10px 0px 10px;
+  text-decoration: none;
+  text-decoration-color: black;
+  color: black;
+  font-family: "Work Sans";
+}
+
+.navbar {
+  text-align: center;
+}
+
+.breadcrumbs {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.navGallery {
+  margin: 0 10px 0 10px !important;
+}
